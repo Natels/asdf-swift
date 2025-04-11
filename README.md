@@ -1,8 +1,11 @@
 <div align="center">
 
-# asdf-swift [![Build](https://github.com/natels/asdf-swift/actions/workflows/build.yml/badge.svg)](https://github.com/natels/asdf-swift/actions/workflows/build.yml) [![Lint](https://github.com/natels/asdf-swift/actions/workflows/lint.yml/badge.svg)](https://github.com/natels/asdf-swift/actions/workflows/lint.yml)
+# asdf-swift [![Build](https://github.com/natels/asdf-swift/actions/workflows/build.yml/badge.svg)](https://github.com/natels/asdf-swift/actions/workflows/build.yml)
 
-[swift](https://www.swift.org/documentation/) plugin for the [asdf version manager](https://asdf-vm.com).
+             [![Lint](https://github.com/natels/asdf-swift/actions/workflows/lint.yml/badge.svg)](https://github.com/natels/asdf-swift/actions/workflows/lint.yml)
+
+[swift](https://www.swift.org/documentation/) plugin for the
+[asdf version manager](https://asdf-vm.com).
 
 </div>
 
@@ -15,10 +18,8 @@
 
 # Dependencies
 
-**TODO: adapt this section**
-
-- `bash`, `curl`, `tar`, and [POSIX utilities](https://pubs.opengroup.org/onlinepubs/9699919799/idx/utilities.html).
-- `SOME_ENV_VAR`: set this environment variable in your shell config to load the correct version of tool x.
+- `bash`, `curl`, `tar`, and
+  [POSIX utilities](https://pubs.opengroup.org/onlinepubs/9699919799/idx/utilities.html).
 
 # Install
 
@@ -46,15 +47,16 @@ asdf global swift latest
 swift --help
 ```
 
-Check [asdf](https://github.com/asdf-vm/asdf) readme for more instructions on how to
-install & manage versions.
+Check [asdf](https://github.com/asdf-vm/asdf) readme for more instructions on
+how to install & manage versions.
 
 # Contributing
 
-Contributions of any kind welcome! See the [contributing guide](contributing.md).
+Contributions of any kind welcome!
+See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/natels/asdf-swift/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/natels/asdf-swift/graphs/contributors)!
 
 # License
 
-See [LICENSE](LICENSE) © [Nate Smith](https://github.com/natels/)
+See [LICENSE](LICENSE) © [Nate Smith](https://github.com/natels/)
