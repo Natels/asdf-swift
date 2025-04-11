@@ -39,7 +39,7 @@ download_release() {
 	version="$1"
 	filename="$2"
 
-	# TODO: Use swiftly to install release.
+	$SWIFTLY_PATH install $version
 }
 
 install_version() {
